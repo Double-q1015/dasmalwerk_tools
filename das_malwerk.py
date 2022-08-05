@@ -1,6 +1,5 @@
 import os
 import shutil
-from urllib import response
 import tqdm
 import requests
 import datetime
